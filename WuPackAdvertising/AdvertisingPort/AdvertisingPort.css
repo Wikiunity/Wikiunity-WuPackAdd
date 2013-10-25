@@ -1,0 +1,10 @@
+/**
+* @file Wikiunity.com //dev.: M.C.
+* @ingroup Extensions
+*/
+
+/* Pad Google AdSense box in portlet in sidebar */
+#p-googleadsense .pBody {
+    padding-top: 5px;
+    text-align:  center;
+}
